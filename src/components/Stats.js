@@ -7,6 +7,9 @@ export default function Stats({ items }) {
     return (
       <p className="stats">
         <em>Start adding some items to your packing list🚀</em>
+        <div>
+          <span>&copy; OS 2023</span>
+        </div>
       </p>
     );
 
